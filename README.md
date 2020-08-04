@@ -1,8 +1,8 @@
 This program was created as part of the backend for our 2020 Capstone team project. 
+
 Full Backend directory: https://github.com/nleong2/100-favorites-preservation
 
 A program that creates new JSON files with organized components
-
 Input files are of the form:
 
 ```
