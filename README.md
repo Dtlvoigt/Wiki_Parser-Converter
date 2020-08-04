@@ -1,3 +1,5 @@
+This program was created as part of our 2020 Capstone team project. 
+
 A program that creates new JSON files with organized components
 
 Input files are of the form:
